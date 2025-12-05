@@ -14,23 +14,25 @@ A beautiful and feature-rich todo application built with React Native (Frontend)
 
 ## 📸 Screenshots
 
-### Light Mode
-![Light Mode](screenshots/light-mode.png)
+<div align="center">
+  <img src="screenshots/light-mode.png" width="30%" />
+  <img src="screenshots/dark-mode.png" width="30%" />
+  <img src="screenshots/login-screen.png" width="30%" />
+  <br/>
+  <em>Light Mode</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Dark Mode</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Login Screen</em>
+</div>
 
-### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
-
-### Signup Task
-![Signup Task](screenshots/edit-task.png)
-
-### Login Screen
-![Login Screen](screenshots/login-screen.png)
-
-### Grid View
-![Grid View](screenshots/grid-view.png)
-
-### Profile 
-![Profile Task](screenshots/add-task.png)
+<div align="center">
+  <img src="screenshots/edit-task.png" width="30%" />
+  <img src="screenshots/grid-view.png" width="30%" />
+  <img src="screenshots/add-task.png" width="30%" />
+  <br/>
+  <em>Signup</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Grid View</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Profile</em>
+</div>
 
 
 
